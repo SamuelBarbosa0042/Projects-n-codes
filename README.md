@@ -1,4 +1,6 @@
-### samuelbarbosa0042.github.io
-  This is my codes page building
+### portfolio Samuel Barbosa
+  This is my python codes page building
  
-<p> " Testar a pagina e tentar configurar esse role pra exibir meu portfólio. Mas como será que eu consigo exibir um arquivo? " </p>
+<h3> This is a grouping of python little files </h3>
+
+<p> the first code i made on python 3 using PyCharm </p>
